@@ -1,0 +1,3 @@
+#!/bin/bash
+chmod a+x Hello
+#you can also say +x since when you leave it that way it is assumed that it appllies for all
